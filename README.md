@@ -1,5 +1,8 @@
 # EF Core JSON Column Issue
 
+## EF Core Bug Report
+https://github.com/dotnet/efcore/issues/31529
+
 ## Running the Code
 _Note: Please ensure you have a MSSQL server available. I was using [MSSQL Express 2019 Docker](https://hub.docker.com/_/microsoft-mssql-server)_
 
